@@ -1,4 +1,4 @@
-## Piatra . Institute
+## [Piatra . Institute](https://piatra.institute)
 
 
 Focused on developing technologies for the public good, the institute offers licensing options for private entities interested in commercialization. 
